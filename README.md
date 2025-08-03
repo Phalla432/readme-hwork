@@ -2,6 +2,7 @@
 ![button](https://img.shields.io/badge/School%20management%20system-Adminstrator-green)
 
 A Node.js-based application designed to simplify and automate school administrative tasks such as managing students, teachers, classes, attendance, and more.
+
 ---
 ## 📚 Table of Contents
 - [features]()
