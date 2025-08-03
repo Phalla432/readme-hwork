@@ -2,7 +2,7 @@
 ![button](https://img.shields.io/badge/School%20management%20system-Adminstrator-green)
 
 A Node.js-based application designed to simplify and automate school administrative tasks such as managing students, teachers, classes, attendance, and more.
-#
+---
 ## 📚 Table of Contents
 - [features]()
 - [Tech Stack]()
@@ -14,7 +14,7 @@ A Node.js-based application designed to simplify and automate school administrat
 - [Contributing]()
 - [Contribute]()
 - [License]()
-#
+---
 # ✨ Features
 - Student & Teacher Management
 - Class & Subject Assignment
@@ -22,7 +22,7 @@ A Node.js-based application designed to simplify and automate school administrat
 - Exam Results
 - User Authentication (JWT)
 - Admin Dashboard
-#
+---
 # 🛠 Tech Stack
 - Programming Language: JavaScript (Node.js)
 - Runtime: Node.js
@@ -36,7 +36,7 @@ A Node.js-based application designed to simplify and automate school administrat
 ![button](https://img.shields.io/badge/Express.js-Framework-blue)
 ![button](https://img.shields.io/badge/Mogo%20DB-Data%20base-green)
 ![button](https://img.shields.io/badge/License-MIT-blue)
-#
+---
 # 🚀 Installation
 Clone the project and install dependencies:
 ``` python
